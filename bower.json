@@ -1,0 +1,30 @@
+{
+  "name": "shop",
+  "description": "",
+  "main": "server/index.js",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "^2.5.0",
+    "angular-cookies": "^1.6.5",
+    "angular-mocks": "^1.6.5",
+    "angular-sanitize": "^1.6.5",
+    "angular-resource": "^1.6.5",
+    "angular-scenario": "^1.6.5",
+    "angular-socket-io": "^0.7.0",
+    "angular-ui-router": "^1.0.5",
+    "bootstrap": "^3.3.7",
+    "es5-shim": "^4.5.9",
+    "font-awesome": "^4.7.0",
+    "json3": "^3.3.2",
+    "lodash": "^4.17.4"
+  }
+}
